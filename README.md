@@ -26,7 +26,15 @@ de segurança da rede sem fio.
 
 ------------------------------------------------------------------------
 
-## 3. Configuração Inicial da Rede
+## 3. Topologia da Rede Wireless
+
+Segue a topologia no packet tracer:
+
+![topologia wireless](Topologia Wireless.png)
+
+---
+
+## 4. Configuração Inicial da Rede
 
 Passos realizados para iniciar a configuração:
 
@@ -38,7 +46,7 @@ Passos realizados para iniciar a configuração:
 
 ------------------------------------------------------------------------
 
-## 4. Acesso ao Roteador
+## 5. Acesso ao Roteador
 
 Para acessar o painel de configuração do roteador:
 
@@ -53,7 +61,7 @@ Após isso será exibida a **interface de administração do roteador**.
 
 ------------------------------------------------------------------------
 
-## 5. Configuração da Rede Wireless
+## 6. Configuração da Rede Wireless
 
 Acessar a aba:
 
@@ -69,7 +77,7 @@ Exemplo configurado:
 
 ------------------------------------------------------------------------
 
-## 6. Segurança da Rede Wireless
+## 7. Segurança da Rede Wireless
 
 Acessar a opção:
 
@@ -99,7 +107,7 @@ Exemplo utilizado:
 
 ------------------------------------------------------------------------
 
-## 7. Alteração da Senha do Roteador
+## 8. Alteração da Senha do Roteador
 
 Acessar a aba:
 
@@ -118,7 +126,7 @@ pode permitir que outras pessoas acessem a configuração do equipamento.
 
 ------------------------------------------------------------------------
 
-## 8. SSID Broadcast
+## 9. SSID Broadcast
 
 O **SSID Broadcast** define se o nome da rede Wi‑Fi será visível ou não.
 
@@ -137,7 +145,7 @@ publicamente.
 
 ------------------------------------------------------------------------
 
-## 9. Conclusão
+## 10. Conclusão
 
 Neste laboratório foi possível aprender:
 
