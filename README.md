@@ -30,7 +30,8 @@ de segurança da rede sem fio.
 
 Segue a topologia no packet tracer:
 
-![topologia](Topologia Wireless.png)
+<img width="677" height="466" alt="Topologia Wireless" src="https://github.com/user-attachments/assets/708b2597-64e4-437f-af0d-671bd25ad831" />
+
 
 ---
 
